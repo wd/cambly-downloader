@@ -23,8 +23,8 @@ Options:
 ```
 
 First, you need to get a session id from the website. Visit and log in to Cambly, then toggle the `Developer Tools` for Chrome. See the image below.
-image1
-image2
+![step1](https://github.com/wd/cambly-downloader/blob/main/images/1.png?raw=true)
+![step2](https://github.com/wd/cambly-downloader/blob/main/images/2.png?raw=true)
 
 Then you can use a command like the below to download all the videos since `2022-01-04`. The video's name will be something like `2022-02-15_Teacher.Mark.mp4`.
 
